@@ -25,6 +25,13 @@ SDL_Rect newFood() {
     } else { randY += 10 - randY % 10; }
 
     //Set new food position and size
+    for(int i =0; i<snakeParts.size();i++){
+        if(randX==snakeParts.at(i).x && randY==snakeParts.at(i).y){
+             randX = rand() % 620;
+             randY = rand() % 420;
+             i--;
+        }
+    }
     newFood.x = randX;
     newFood.y = randY;
     newFood.w = 10;
@@ -240,7 +247,8 @@ int main() {
             food = newFood();
         }
         SDL_Delay(50);
-       
+
+        
         //Set the drawing color for the Food
         SDL_SetRenderDrawColor(renderer, 255, 0, 0, SDL_ALPHA_OPAQUE);
         SDL_RenderFillRect(renderer, &food);
