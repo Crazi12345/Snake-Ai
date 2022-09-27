@@ -1,1 +1,0 @@
-/usr/bin/g++ -lSDL2main -lSDL2 -g CMakeFiles/TESTTest.dir/main.cpp.o -o TESTTest 

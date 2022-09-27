@@ -1,3 +1,0 @@
-/home/tired_atlas/Desktop/SDLTEST/build-TESTTest-Desktop-Debug/CMakeFiles/TESTTest.dir
-/home/tired_atlas/Desktop/SDLTEST/build-TESTTest-Desktop-Debug/CMakeFiles/edit_cache.dir
-/home/tired_atlas/Desktop/SDLTEST/build-TESTTest-Desktop-Debug/CMakeFiles/rebuild_cache.dir

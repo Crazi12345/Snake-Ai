@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="SNAKE" targetName="SNAKE" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be337d75-e542-4316-a88e-203f19e1eefc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/.cmake/api/v1/reply.prev/cache-v2-9a18bcf3d12984512879.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/.cmake/api/v1/reply.prev/cmakeFiles-v1-65594674d1fc62e784bb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/.cmake/api/v1/reply.prev/codemodel-v2-bc1f3c3b231de3b6f939.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/.cmake/api/v1/reply.prev/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/.cmake/api/v1/reply.prev/index-2022-08-09T19-24-46-0537.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/.cmake/api/v1/reply.prev/target-TESTTest-Debug-49ba32e15c8d10c307b0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/.cmake/api/v1/reply/cache-v2-9a18bcf3d12984512879.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/.cmake/api/v1/reply/cmakeFiles-v1-c41b720d440f9395fa76.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/.cmake/api/v1/reply/codemodel-v2-a5132ad98f1f4a6f9a0a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/.cmake/api/v1/reply/index-2022-08-09T19-29-09-0141.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/.cmake/api/v1/reply/target-TESTTest-Debug-467b711be21afee07eb6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/.qtc_clangd/compile_commands.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/CMakeCache.txt.prev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/CMakeFiles/3.22.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/CMakeFiles/3.22.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/CMakeFiles/3.22.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/CMakeFiles/3.22.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/CMakeFiles/3.22.2/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/CMakeFiles/TESTTest.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/CMakeFiles/TESTTest.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/CMakeFiles/TESTTest.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/CMakeFiles/TESTTest.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/CMakeFiles/TESTTest.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/CMakeFiles/TESTTest.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/CMakeFiles/TESTTest.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/CMakeFiles/TESTTest.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/CMakeFiles/TESTTest.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/CMakeFiles/TESTTest.dir/main.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/CMakeFiles/TESTTest.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/TESTTest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-TESTTest-Desktop-Debug/qtcsettings.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-f2e85899fa356fc4aebe.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-11fd8c487f664ec99bfb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-9724d3bb69beea6367ed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2022-08-25T16-52-53-0293.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SNAKE-Debug-f9c9edf1a2e64e6bddcf.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-3b6f1f149f6e115a875f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.23.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.23.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.23.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SNAKE.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/SDLTEST" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/SNAKE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/SNAKE.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="2.3" />
+  </component>
+  <component name="ProjectId" id="2FG8HzrFZ7sAvON2VfVCYG3Nn28" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SNAKE" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SNAKE" TARGET_NAME="SNAKE" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SNAKE" RUN_TARGET_NAME="SNAKE">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be337d75-e542-4316-a88e-203f19e1eefc" name="Changes" comment="" />
+      <created>1664106976658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664106976658</updated>
+      <workItem from="1664106977913" duration="10570000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>217</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>229</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>230</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
