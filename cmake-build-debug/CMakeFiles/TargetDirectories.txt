@@ -1,3 +1,0 @@
-/home/tired_atlas/Desktop/Snake-Ai/cmake-build-debug/CMakeFiles/SNAKE.dir
-/home/tired_atlas/Desktop/Snake-Ai/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/tired_atlas/Desktop/Snake-Ai/cmake-build-debug/CMakeFiles/rebuild_cache.dir
